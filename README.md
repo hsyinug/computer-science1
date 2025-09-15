@@ -1,6 +1,5 @@
 # computer-science1
-自我介紹
-# computer-science
+
 嗨嗨 我叫張芯語～  
 >### 個性—INFP  
 >>非常怕生&內向，基本上不敢主動跟不認識的人說話><  
